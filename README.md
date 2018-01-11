@@ -1,2 +1,3 @@
-# projetosphp_noob
-Repositório de uso pessoal para práticas inicias de PHP.
+# Calculadora em PHP
+Calculadora em PHP, ainda está em fase de desenvolvimento.
+
